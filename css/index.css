@@ -23086,9 +23086,8 @@ body[data-type="fcircle"] #page {
 
 #greetingBox {
   position: fixed;
-  top: 10px;
-  left: 15%;
-  width: 400px;
+  top: 50px;
+  width: 100vw;
   text-align: center;
   z-index: 999;
   pointer-events: none;
