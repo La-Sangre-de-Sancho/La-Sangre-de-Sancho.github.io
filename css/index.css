@@ -6375,7 +6375,7 @@ body[data-type="link"] #page .page-title {
   -ms-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
   position: relative;
-  width: calc(20% - 12px);
+  width: calc(50% - 12px);
   border: var(--style-border);
   -webkit-box-shadow: var(--anzhiyu-shadow-border);
   box-shadow: var(--anzhiyu-shadow-border);
