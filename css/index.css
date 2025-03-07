@@ -11467,6 +11467,8 @@ h1.page-title + .tag-cloud-list {
   -webkit-justify-content: space-between;
   justify-content: space-between;
   outline: 1px solid var(--anzhiyu-none);
+  backdrop-filter: blur(20px);
+  background-color: #00000050;
 }
 #nav i {
   font-size: 1.2rem;
